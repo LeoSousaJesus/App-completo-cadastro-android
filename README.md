@@ -61,4 +61,3 @@ Os layouts em XML estão em `app/src/main/res/layout/`:
 ## ⚠️ Observações Importantes
 
 *   **Persistência de Dados**: Atualmente, o aplicativo salva os dados em memória (em um `ArrayList` estático dentro da classe `RegistrosManager`). Isso significa que **todos os dados cadastrados serão perdidos assim que o aplicativo for fechado**. Para manter os dados permanentemente, seria necessário implementar uma solução de banco de dados (como SQLite ou Room) ou armazenamento em nuvem (como Firebase).
-*   Existe uma `Cadastro2Activity` no projeto que não está sendo utilizada diretamente no fluxo principal demonstrado acima.
