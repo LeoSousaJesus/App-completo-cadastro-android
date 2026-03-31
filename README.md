@@ -48,9 +48,8 @@ Os layouts em XML estão em `app/src/main/res/layout/`:
 1.  **Pré-requisitos**: Certifique-se de ter o [Android Studio](https://developer.android.com/studio) instalado na sua máquina.
 2.  **Clone o Repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/LeoSousaJesus/App-completo-cadastro-android
     ```
-    *(Substitua a URL pelo link real do seu repositório)*
 3.  **Abra o Projeto**:
     *   Abra o Android Studio.
     *   Selecione **"Open"** e navegue até a pasta onde você clonou o repositório.
